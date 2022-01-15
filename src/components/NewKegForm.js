@@ -19,7 +19,7 @@ function NewKegForm(props){
         placeholder="Price"/>
         <input
         type="number"
-        name="alcohol content"
+        name="alcoholContent"
         placeholder="Alcohol Content Percentage"/>
         <button type="submit">Sell!</button>
       </form>
