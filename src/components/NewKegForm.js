@@ -1,5 +1,6 @@
 import React from "react";
 import {v4} from "uuid";
+import PropTypes from "prop-types";
 
 function NewKegForm(props){
   return (
@@ -25,6 +26,10 @@ function NewKegForm(props){
       </form>
     </React.Fragment>
   );
+}
+
+NewKegForm.propTypes={
+  onNewkegCreation:PropTypes.func
 }
 
 export default NewKegForm;
