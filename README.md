@@ -43,7 +43,7 @@ No Known Bugs
 
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) **2021 Sisi Vieira**
+Copyright (c) **2022 Sisi Vieira**
 
 ## Contact Information
 
