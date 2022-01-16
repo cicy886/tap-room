@@ -8,7 +8,8 @@ class KegControl extends React.Compoent {
     super(props);
     this.state = {
       formVisibleOnPage: false,
-      mainKegList:[]
+      mainKegList:[],
+      selectedKeg: null
     };
   }
 
