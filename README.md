@@ -6,7 +6,7 @@
 
 ## Taproom Diagram:
 
-<img src ="./TaproomDiagram.png" > 
+<img src ="./src/img/TaproomDiagram.png" > 
 
 ## Technologies Used
 
