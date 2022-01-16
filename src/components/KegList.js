@@ -7,11 +7,14 @@ function KegList(props){
     <React.Fragment>
       <hr/>
       {props.kegList.map((keg,index)=>
-      <Keg name={keg.name}
+      <Keg 
+      whenKegClicked = { props.onKegSelection}
+      name={keg.name}
         brand={keg.brand}
         price={keg.price}
         alcoholContent={keg.alcoholContent}
-        key={index}/>
+        id={keg.id}
+        key={keg.id}/>
       )}
     </React.Fragment>
   );
