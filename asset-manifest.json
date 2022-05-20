@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b97c76dd.chunk.js",
+    "main.js.map": "/static/js/main.b97c76dd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3c44ee19.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3c44ee19.js.map",
+    "static/js/2.777ebc1a.chunk.js": "/static/js/2.777ebc1a.chunk.js",
+    "static/js/2.777ebc1a.chunk.js.map": "/static/js/2.777ebc1a.chunk.js.map",
+    "static/js/3.07bd3fdf.chunk.js": "/static/js/3.07bd3fdf.chunk.js",
+    "static/js/3.07bd3fdf.chunk.js.map": "/static/js/3.07bd3fdf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9a40f82ef0cee3b3f4ad917e07a1ec8f.js": "/precache-manifest.9a40f82ef0cee3b3f4ad917e07a1ec8f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/taproom.jpg": "/static/media/taproom.d78f57fd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c44ee19.js",
+    "static/js/2.777ebc1a.chunk.js",
+    "static/js/main.b97c76dd.chunk.js"
+  ]
+}
