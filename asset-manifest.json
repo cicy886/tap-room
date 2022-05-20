@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.b97c76dd.chunk.js",
-    "main.js.map": "/static/js/main.b97c76dd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3c44ee19.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3c44ee19.js.map",
-    "static/js/2.777ebc1a.chunk.js": "/static/js/2.777ebc1a.chunk.js",
-    "static/js/2.777ebc1a.chunk.js.map": "/static/js/2.777ebc1a.chunk.js.map",
-    "static/js/3.07bd3fdf.chunk.js": "/static/js/3.07bd3fdf.chunk.js",
-    "static/js/3.07bd3fdf.chunk.js.map": "/static/js/3.07bd3fdf.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9a40f82ef0cee3b3f4ad917e07a1ec8f.js": "/precache-manifest.9a40f82ef0cee3b3f4ad917e07a1ec8f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/taproom.jpg": "/static/media/taproom.d78f57fd.jpg"
+    "main.js": "/tap-room/static/js/main.b97c76dd.chunk.js",
+    "main.js.map": "/tap-room/static/js/main.b97c76dd.chunk.js.map",
+    "runtime-main.js": "/tap-room/static/js/runtime-main.180e73c3.js",
+    "runtime-main.js.map": "/tap-room/static/js/runtime-main.180e73c3.js.map",
+    "static/js/2.777ebc1a.chunk.js": "/tap-room/static/js/2.777ebc1a.chunk.js",
+    "static/js/2.777ebc1a.chunk.js.map": "/tap-room/static/js/2.777ebc1a.chunk.js.map",
+    "static/js/3.07bd3fdf.chunk.js": "/tap-room/static/js/3.07bd3fdf.chunk.js",
+    "static/js/3.07bd3fdf.chunk.js.map": "/tap-room/static/js/3.07bd3fdf.chunk.js.map",
+    "index.html": "/tap-room/index.html",
+    "precache-manifest.1488bfa893bac552a62eeca69d83b8aa.js": "/tap-room/precache-manifest.1488bfa893bac552a62eeca69d83b8aa.js",
+    "service-worker.js": "/tap-room/service-worker.js",
+    "static/media/taproom.jpg": "/tap-room/static/media/taproom.d78f57fd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c44ee19.js",
+    "static/js/runtime-main.180e73c3.js",
     "static/js/2.777ebc1a.chunk.js",
     "static/js/main.b97c76dd.chunk.js"
   ]
